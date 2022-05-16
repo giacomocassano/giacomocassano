@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giacomojcassano&label=Profile%20views&color=0e75b6&style=flat" alt="giacomojcassano" /> </p>
 
-- 🌱 I’m currently learning **Web development and WebGL computer graphics.**
+- 🌱 I’m currently working on **<a href="https://www.evolisync.polimi.it" target="blank">EVOLI</a>, a video-annotation tool to support the classroom**
 
 - 📫 How to reach me **giacomojcassano@gmail.com**
 
