@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giacomo Cassano</h1>
-<h3 align="center">Currently I'm attending the degree course in Computer Engineering at Politecnico di Milano. I've already graduated in the bachelor degree. Passionate about coding.</h3>
+<h3 align="center">I'm a PhD student working at HOC lab @Politecnico di Milano. I've already graduated in the master degree in Computer Science and Engineering. Passionate about coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giacomojcassano&label=Profile%20views&color=0e75b6&style=flat" alt="giacomojcassano" /> </p>
 
