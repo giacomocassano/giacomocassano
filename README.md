@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Giacomo Cassano</h1>
-<h3 align="center">I'm a PhD student working at HOC lab @Politecnico di Milano. I've already graduated in the master degree in Computer Science and Engineering. Passionate about coding.</h3>
+# Hi, I'm Giacomo 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giacomojcassano&label=Profile%20views&color=0e75b6&style=flat" alt="giacomojcassano" /> </p>
+Software architect and developer with a PhD in Computer Engineering. I design and build web applications with **React, Node.js/TypeScript and .NET**, looking for the right architecture for each problem: never under-engineered, never over-engineered.
 
-- 🌱 I’m currently working on **<a href="https://www.evolisync.polimi.it" target="blank">EVOLI</a>, a video-annotation tool to support the classroom**
+## About me
+- I started with Java (desktop and web), then moved to the JavaScript/TypeScript ecosystem and, more recently, to .NET.
+- I've worked in research and in industry, in **EdTech** (Italy and Australia) and in the **chemical sector**.
+- My research focused on EdTech: **monitoring and analyzing students' engagement in video-based learning**.
+- I'm currently attending a **Machine Learning** masterclass.
+- I integrate LLMs and AI-powered features into applications, and I use AI as a supervised executor: architectural decisions stay with me.
 
-- 📫 How to reach me **giacomojcassano@gmail.com**
+## How I work
+> Perfect is the enemy of good.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/giacomo-cassano/](https://www.linkedin.com/in/giacomo-cassano/)
+I start from the architecture, pick the simplest solution that holds up, and let it evolve when needed.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/giacomo-cassano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giacomo-cassano" height="30" width="40" /></a>
-<a href="https://instagram.com/jackcasss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jackcasss" height="30" width="40" /></a>
-</p>
+## Tech
+`React` · `TypeScript` · `Node.js` · `.NET` · `Java` · `LLM / AI integration` · `Machine Learning (learning)`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## Find me
+- 💼 [LinkedIn](https://www.linkedin.com/in/giacomo-cassano/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=8N_UsaoAAAAJ&hl=it)
+- 🌐 [giacomocassano.it](https://giacomocassano.it)
+- ✉️ giacomojcassano@gmail.com
