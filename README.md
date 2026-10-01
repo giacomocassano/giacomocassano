@@ -8,6 +8,7 @@ Software architect and developer with a PhD in Computer Engineering. I design an
 - My research focused on EdTech: **monitoring and analyzing students' engagement in video-based learning**.
 - I'm currently attending a **Machine Learning** masterclass.
 - I integrate LLMs and AI-powered features into applications, and I use AI as a supervised executor: architectural decisions stay with me.
+- I build and manage **WordPress** sites with AI-assisted workflows, from development to day-to-day operations.
 
 ## How I work
 > Perfect is the enemy of good.
@@ -15,7 +16,7 @@ Software architect and developer with a PhD in Computer Engineering. I design an
 I start from the architecture, pick the simplest solution that holds up, and let it evolve when needed.
 
 ## Tech
-`React` · `TypeScript` · `Node.js` · `.NET` · `Java` · `LLM / AI integration` · `Machine Learning (learning)`
+`React` · `TypeScript` · `Node.js` · `.NET` · `Java` · `WordPress` · `LLM / AI integration` · `Machine Learning (learning)`
 
 ## Find me
 - 💼 [LinkedIn](https://www.linkedin.com/in/giacomo-cassano/)
