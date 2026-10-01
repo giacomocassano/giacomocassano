@@ -20,5 +20,4 @@ I start from the architecture, pick the simplest solution that holds up, and let
 ## Find me
 - 💼 [LinkedIn](https://www.linkedin.com/in/giacomo-cassano/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=8N_UsaoAAAAJ&hl=it)
-- 🌐 [giacomocassano.it](https://giacomocassano.it)
 - ✉️ giacomojcassano@gmail.com
